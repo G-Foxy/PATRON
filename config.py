@@ -84,21 +84,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
+    "START_IMG_URL", ""
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/Exelans-04-04-2"
+    "PING_IMG_URL", ""
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-STATS_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/Exelans-04-04-2"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/Exelans-04-04-2"
-STREAM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-YOUTUBE_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/Exelans-04-04-2"
+PLAYLIST_IMG_URL = ""
+STATS_IMG_URL = ""
+TELEGRAM_AUDIO_URL = ""
+TELEGRAM_VIDEO_URL = ""
+STREAM_IMG_URL = ""
+SOUNCLOUD_IMG_URL = ""
+YOUTUBE_IMG_URL = ""
+SPOTIFY_ARTIST_IMG_URL = ""
+SPOTIFY_ALBUM_IMG_URL = ""
+SPOTIFY_PLAYLIST_IMG_URL = ""
 
 
 def time_to_seconds(time):
