@@ -1,5 +1,5 @@
 {
-    "name": "exelans ダ ᴍᴜsɪᴄ",
+    "name": "G-foxy ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "1756115082",
         "required": true
       },
       "STRING_SESSION": {
